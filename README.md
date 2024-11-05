@@ -1,7 +1,7 @@
 # Embedded_C_Programming
 I will be documenting everything learning in Embedded C
 ------------------------------------------------------------
-# Compilation Process
+### Compilation Process
 `main.c` is the source file written by you and given to the compiler for compilation
 > - the first file that is generated while compilation is the 'preprocessed file' that we call as `main.i` 
 > 	- `main.i` = collection of your code and contents of `<stdio.h>` 
