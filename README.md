@@ -11,3 +11,5 @@ sudo apt install -y gcc-riscv64-unknown-elf qemu-system-misc gdb-multiarch
 
 ### RISC-V Reference Card
 The document used to understand the ISA [PDF](https://github.com/jameslzhu/riscv-card/releases/download/latest/riscv-card.pdf)
+
+never use scanf function in production code, it's not safe.
